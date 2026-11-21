@@ -1,48 +1,47 @@
-# The Saturday Ledger — 21 November 2026 (variant 3A)
+# The Saturday Ledger — 21 November 2026 (variant 4A)
 
 [![make.fun · news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
 [![rank](https://make.fun/badge/news-image-20261121/Auttzy/news-image-20261121/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
 [![reward](https://make.fun/badge/news-image-20261121/Auttzy/news-image-20261121/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
 
 A newspaper front page, drawn as a single image, summing up the world's news
-of Saturday 21 November 2026 — 40 stories across 7 regions.
+of Saturday 21 November 2026 — 36 stories across 6 regions.
 
 ## The image
 
 `entry.png` is a 1024×1024 front page called "The Saturday Ledger", dated
-Saturday 21 November 2026. Forty stories from that day share the page:
+Saturday 21 November 2026. Thirty-six stories from that day share the page:
 
-1. **Russian missiles land in Poland; Warsaw asks NATO for help** — Two
-   missiles, one a Kh-101, and a jet-powered drone crash in eastern Poland
-   during Russia's attack on Ukraine. Polish and NATO jets scramble and
-   Patriot defences are activated.
-2. **Asia logs its worst week since 2020** — The AI rout deepens: Taiwan's
-   Taiex falls 17.5% in a week, its worst since 1990, and $190bn is wiped
-   from Asian chip giants. Nvidia's record $115.8bn revenue fails to stop
-   the selling.
-3. **COP31 spills into overtime as fossil fuels vanish from the draft** — The
-   draft is cut from 144 paragraphs to 80 with every mention of fossil fuels
-   removed. Panama threatens to block consensus and activists call it the
-   worst COP ever.
-4. **EU approves €1bn aid for Ukraine** — The European Peace Facility money
-   is approved as Russia's strikes continue.
-5. **Coalition of the willing meets in Berlin** — Zelenskyy joins US
-   negotiators at the key Ukraine summit.
-6. **Israeli strikes kill six in Gaza** — Bureij, Nuseirat and a
-   displaced-persons camp are hit; 1,662 have died since the truce.
-7. **Akvan rain drenches Bengal** — The storm weakens to a deep depression
-   after landfall near Gopalpur.
-8. **Rahul 93* as India reach 239/1** — Rahul and Padikkal bat through a
-   wicketless morning on day three of the first Test in Wellington.
-9. **Trump: 'Not in a rush' on Iran war** — Any decision on war is pushed
-   into 2027, the president says.
-10. **Denmark foils plot to kill rapper** — Two arrested, a diplomat expelled;
-    suspects stopped minutes before the concert.
+1. **Coalition downs three Houthi missiles over Riyadh** — Air defences
+   destroy three ballistic missiles fired at the capital early on Saturday,
+   the second attack on Riyadh in days.
+2. **BepiColombo reaches Mercury after eight years** — The ESA-JAXA craft
+   fires its thrusters at 19:24 CET to be caught by Mercury's gravity — the
+   first mission to put two orbiters there at once.
+3. **COP31 runs into overtime with no deal** — A third draft is due on
+   Saturday morning after talks pass their deadline; fossil-fuel language is
+   out and 92,000 attended, the largest ever.
+4. **Rutte in Warsaw as Poland seeks more cover** — The NATO chief visits on
+   Saturday after Friday's missile landings in Poland; Warsaw asks for more
+   eastern-flank support.
+5. **Overnight strike kills 2, injures 42 in Kryvyi Rih** — Four children
+   are among the hurt, officials say.
+6. **UN warns aid strikes threaten aid lifeline** — Civilians were told to
+   leave the port area of Hodeidah as the coalition hit Houthi targets.
+7. **US clears ~900,000 AI chips for China** — Washington approved the sale
+   of close to 900,000 AI chips to China over six months.
+8. **EU pays out nearly €8bn to Ukraine** — The bloc completes its
+   largest-ever reforms payment to Kyiv.
+9. **Denmark charges two in Russian plot** — Two Danes are accused of being
+   recruited by Russia to kill a Ukrainian rapper.
+10. **India resume on 159/1 on day three** — New Zealand made 368, Nicholls
+    175 not out; India trail by 209 in Wellington.
 
-A strip along the foot of the page, "Also on Saturday", carries 27 more
-stories in three columns, and a "Where it happened" map pins the day's eight
-key places. A "Date check" footer names the stories from other days that
-were deliberately left out.
+A strip along the foot of the page, "Also on Saturday", carries 23 more
+stories in three columns, and a "Where it happened" dotted world map pins
+the day's key places. A red-bordered "Date check" box names the stories from
+other days that were deliberately left out — including the Russian missiles
+that landed in Poland, which happened on Friday 20 November, not Saturday.
 
 ## The bounty
 
