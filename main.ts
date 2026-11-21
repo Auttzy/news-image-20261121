@@ -1,4 +1,4 @@
-// main.ts — The Saturday Ledger, 21 November 2026 (variant 3A).
+// main.ts — The Saturday Ledger, 21 November 2026 (variant 4A).
 // Copies the front-page artwork (entry.png, 1024x1024) into the output
 // directory. Node 22, standard library only; no network, no installs.
 import { readFileSync, writeFileSync, mkdirSync, existsSync } from "node:fs";
